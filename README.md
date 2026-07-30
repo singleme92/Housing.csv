@@ -1,6 +1,6 @@
-# ?? Housing Market Analysis Dashboard
+#  Housing Market Analysis Dashboard
 
-## ?? Project Overview
+##  Project Overview
 
 This project analyzes a housing market dataset to identify the key factors that influence house prices. Using **Python** for data cleaning, exploration, and visualization, and **Power BI** for interactive dashboard development, the project provides valuable insights into housing characteristics, pricing trends, and market patterns.
 
@@ -8,7 +8,7 @@ The goal is to help home buyers, real estate investors, property developers, and
 
 ---
 
-## ?? Project Objectives
+##  Project Objectives
 
 - Analyze housing market trends.
 - Identify the features that influence house prices.
@@ -18,7 +18,7 @@ The goal is to help home buyers, real estate investors, property developers, and
 
 ---
 
-## ?? Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -31,7 +31,7 @@ The goal is to help home buyers, real estate investors, property developers, and
 
 ---
 
-## ?? Dataset Features
+##  Dataset Features
 
 The dataset contains information such as:
 
@@ -51,34 +51,34 @@ The dataset contains information such as:
 
 ---
 
-## ?? Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 Several visualizations were created using Python to understand the dataset.
 
 ### Distribution Analysis
 
-? Bedrooms Distribution
+ Bedrooms Distribution
 
 - Most houses have **3 bedrooms**, making it the most common house size.
 - Houses with **5 or 6 bedrooms** are relatively rare.
 
 ---
 
-? Bathrooms Distribution
+ Bathrooms Distribution
 
 - Most properties contain **1 bathroom**.
 - Houses with **3 or 4 bathrooms** are luxury properties and occur less frequently.
 
 ---
 
-? Guest Room Availability
+ Guest Room Availability
 
 - The majority of houses **do not have a guest room**.
 - Only a small percentage include a guest room.
 
 ---
 
-? Hot Water Heating
+ Hot Water Heating
 
 - Very few homes provide hot water heating.
 - This indicates that the feature is considered a premium amenity.
@@ -100,7 +100,7 @@ A boxplot was used to compare house prices based on basement availability.
 
 ---
 
-## ?? Power BI Dashboard
+##  Power BI Dashboard
 
 The dashboard provides an interactive overview of the housing market.
 
@@ -128,26 +128,26 @@ The dashboard provides an interactive overview of the housing market.
 
 ---
 
-## ?? Key Insights
+##  Key Insights
 
-### ?? House Size
+###  House Size
 
 - Larger houses generally command higher prices.
 - More bedrooms and bathrooms contribute positively to house value.
 
-### ?? Area
+###  Area
 
 - Property area has a strong positive relationship with selling price.
 
-### ?? Basement
+###  Basement
 
 - Homes with basements typically sell at higher prices than those without.
 
-### ?? Bathrooms
+###  Bathrooms
 
 - Houses with additional bathrooms usually have significantly higher market values.
 
-### ? Premium Features
+###  Premium Features
 
 Properties that include features such as:
 
@@ -161,19 +161,12 @@ tend to have higher selling prices.
 
 ---
 
-## ?? Dashboard Preview
+##  Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-images/Housing_Market_Dashboard.png
-```
 
 ---
 
-## ?? How to Run the Project
+##  How to Run the Project
 
 ### Clone the Repository
 
@@ -181,50 +174,28 @@ images/Housing_Market_Dashboard.png
 git clone https://github.com/yourusername/Housing_Market_Analysis.git
 ```
 
-### Install Required Libraries
 
-```bash
-pip install pandas numpy matplotlib seaborn jupyter
-```
-
-### Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Run:
-
-```
-Housing.ipynb
-```
-
-Open:
-
-```
-Housing Dashboard.pbix
-```
 
 to interact with the Power BI dashboard.
 
 ---
 
-## ?? Project Structure
+##  Project Structure
 
 ```
 Housing_Market_Analysis/
-¦
+Â¦
 +-- Dataset/
-¦   +-- Housing.csv
-¦
+Â¦   +-- Housing.csv
+Â¦
 +-- Images/
-¦   +-- Housing Dashboard.png
-¦   +-- Bedrooms Distribution.png
-¦   +-- Bathrooms Distribution.png
-¦   +-- Basement vs Price.png
-¦   +-- Guestroom.png
-¦   +-- Hot Water Heating.png
-¦
+Â¦   +-- Housing Dashboard.png
+Â¦   +-- Bedrooms Distribution.png
+Â¦   +-- Bathrooms Distribution.png
+Â¦   +-- Basement vs Price.png
+Â¦   +-- Guestroom.png
+Â¦   +-- Hot Water Heating.png
+Â¦
 +-- Housing.ipynb
 +-- Housing Dashboard.pbix
 +-- README.md
