@@ -177,10 +177,6 @@ tend to have higher selling prices.
 
 ---
 
-##  Dashboard Preview
-
-
----
 
 
 ---
@@ -232,21 +228,6 @@ Housing_Market_Analysis/
 
 ---
 
-##  Author
-
-**Babajide John Falowo**
-
-**Data Analyst**
-
-### Skills
-
-- Python
-- SQL
-- Power BI
-- Tableau
-- Excel
-- Data Visualization
-- Business Intelligence
 
 GitHub:
 https://github.com/singleme92
