@@ -175,7 +175,6 @@ Properties that include features such as:
 
 tend to have higher selling prices.
 
----
 
 
 
@@ -232,5 +231,4 @@ Housing_Market_Analysis/
 GitHub:
 https://github.com/singleme92
 
----
 
