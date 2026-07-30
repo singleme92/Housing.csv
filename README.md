@@ -1,5 +1,21 @@
 #  Housing Market Analysis Dashboard
 
+##  Author
+
+**Babajide John Falowo**
+
+**Data Analyst**
+
+### Skills
+
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+- Business Intelligence
+
 ##  Project Overview
 
 This project analyzes a housing market dataset to identify the key factors that influence house prices. Using **Python** for data cleaning, exploration, and visualization, and **Power BI** for interactive dashboard development, the project provides valuable insights into housing characteristics, pricing trends, and market patterns.
@@ -166,17 +182,6 @@ tend to have higher selling prices.
 
 ---
 
-##  How to Run the Project
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Housing_Market_Analysis.git
-```
-
-
-
-to interact with the Power BI dashboard.
 
 ---
 
@@ -204,7 +209,7 @@ Housing_Market_Analysis/
 
 ---
 
-## ?? Business Recommendations
+##  Business Recommendations
 
 - Real estate developers should prioritize homes with larger floor areas, additional bathrooms, and basement facilities.
 - Buyers seeking long-term investment should consider properties with premium amenities.
@@ -213,7 +218,7 @@ Housing_Market_Analysis/
 
 ---
 
-## ?? Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -227,7 +232,7 @@ Housing_Market_Analysis/
 
 ---
 
-## ?? Author
+##  Author
 
 **Babajide John Falowo**
 
