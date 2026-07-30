@@ -199,7 +199,6 @@ Housing_Market_Analysis/
 +-- Housing.ipynb
 +-- Housing Dashboard.pbix
 +-- README.md
-+-- requirements.txt
 ```
 
 ---
